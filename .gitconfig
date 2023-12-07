@@ -1,0 +1,7 @@
+[color]
+	ui = true
+[user]
+	name = Tim
+	email = timtran007@gmail.com
+[init]
+	defaultBranch = main
